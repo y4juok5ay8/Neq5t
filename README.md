@@ -181,7 +181,7 @@ Use --hydra-help to view Hydra specific help
 </p>
 </details>
 
-### Example
+### Examples
 
 
 #### TinyImageNet
